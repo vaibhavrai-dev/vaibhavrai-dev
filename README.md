@@ -2,6 +2,8 @@
 
 I am _Vaibhav Rai_. I have strong media and communication professional with a Bachelor of Technology focused in Computer Science from _Noida Institute of Engineering and Technology_. I am an experienced developer skilled in Java, Web Development(HTML, CSS, MongoDB), Full Stack Development, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaibhavrai-dev&theme=flat&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 😄 Pronouns
 He/him
 
