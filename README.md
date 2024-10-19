@@ -15,7 +15,7 @@ He/him
 - I have internship experience at Codsoft, Oasis Infobyte.
 - Experience with Java Prorgramming Fundamentals course through Infosys Springboard.
 - Completed course of AWS Academy Cloud Foundations.
-- Understood the Google Cloud Fundamentals: Core Infrastructure.
+- Understanding of the Google Cloud Fundamentals: Core Infrastructure.
 - Completed Course on Python for Data Science, AI & Development.
 - Introduction to Artificial Intelligence (AI) and Python Basics.
 
