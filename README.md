@@ -34,5 +34,6 @@ You can ask me anything (within reason). I am looking forward to absorb knowledg
 </p>
 
 <img src="stats.gif" width="90%"><br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavrai-dev&" alt="vaibhavrai-dev" /></p>
 
 ***
